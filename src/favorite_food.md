@@ -1,4 +1,4 @@
 # favorite food
 
-apple
-うどんが好きだよ
+
+水炊きも好きだよ。
