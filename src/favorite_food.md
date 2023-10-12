@@ -1,3 +1,3 @@
 # favorite food
 
-apple
+水炊きも好きだよ。
